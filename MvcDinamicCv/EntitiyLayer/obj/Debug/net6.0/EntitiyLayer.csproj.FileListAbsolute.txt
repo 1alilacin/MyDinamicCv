@@ -1,0 +1,14 @@
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.deps.json
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.runtimeconfig.json
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.dll
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.dll
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\refint\EntitiyLayer.dll
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\ALİ\Desktop\C#\MvcDinamicCv\EntitiyLayer\obj\Debug\net6.0\ref\EntitiyLayer.dll

@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcDinamicCv
+build_property.RootNamespace = MvcDinamicCv
+build_property.ProjectDir = C:\Users\ALİ\Desktop\C#\MvcDinamicCv\MvcDinamicCv\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ALİ\Desktop\C#\MvcDinamicCv\MvcDinamicCv
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUFib3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ACertificate/AddCertificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNlcnRpZmljYXRlXEFkZENlcnRpZmljYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ACertificate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNlcnRpZmljYXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ACertificate/UpdateCertificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNlcnRpZmljYXRlXFVwZGF0ZUNlcnRpZmljYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AEducation/AddEducation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUVkdWNhdGlvblxBZGRFZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AEducation/GetEducation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUVkdWNhdGlvblxHZXRFZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AEducation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUVkdWNhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AExperience/AddExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUV4cGVyaWVuY2VcQWRkRXhwZXJpZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AExperience/GetExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUV4cGVyaWVuY2VcR2V0RXhwZXJpZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AExperience/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUV4cGVyaWVuY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/AHobby/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUhvYmJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ASocimalMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVNvY2ltYWxNZWRpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ATalent/AddTalent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhbGVudFxBZGRUYWxlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ATalent/EditTalent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhbGVudFxFZGl0VGFsZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/ATalent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVRhbGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/About/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Certificate/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2VydGlmaWNhdGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Contact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Education/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRWR1Y2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Experience/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Hobby/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9iYnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Components/Talent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGFsZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ/Desktop/C\#/MvcDinamicCv/MvcDinamicCv/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dvjb51v35z

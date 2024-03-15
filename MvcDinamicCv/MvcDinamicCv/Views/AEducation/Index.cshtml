@@ -1,0 +1,45 @@
+﻿@using EntitiyLayer.Concrete
+@model List<Education>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<br />
+<h1>Eğitim Listesi</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Başlık</th>
+        <th>AltBaşlık</th>
+        <th>AltBaşlık 2</th>
+        <th>GNO</th>
+        <th>Tarih</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+        
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Title</td>
+            <td>@item.Subtitle1</td>
+            <td>@item.Subtitle2</td>
+            <td>@item.GNO</td>
+            <td>@item.Date</td>
+            <td><a href="/AEducation/DeleteEducation/@item.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/AEducation/GetEducation/@item.ID" class="btn btn-success">Düzenle</a></td>
+
+            
+        </tr>
+    }
+</table>
+<a href="/AEducation/AddEducation" class=" btn btn-primary" >Yeni Eğitim Bilgisi Ekle</a>
+
+
+

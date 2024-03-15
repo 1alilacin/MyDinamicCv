@@ -1,0 +1,25 @@
+﻿@model EntitiyLayer.Concrete.Talent
+@{
+    ViewData["Title"] = "EditTalent";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h4>Yetenek Düzeleme Sayfası</h4>
+<br />
+<br />
+<div class="table table-bordered">
+    <form method="post">
+          @*@Html.Label("Yetenek ID")
+          @Html.TextBoxFor(x=>x.ID,new {@class="form-control"})
+          <br />*@
+          @Html.Label("Yetenek")
+          @Html.TextBoxFor(x=>x.Talents,new{@class="form-control"})
+         
+          <br />
+
+         <button class="btn btn-success"> Güncelle </button>
+
+    </form>
+</div>
+
